@@ -29,4 +29,3 @@
 * **Which coins in the top two hundred are less than 6 months old?**
 * **Which currencies are the most volatile?**
 * **What the hell happens when we go to bed and Asia starts trading?**
-* 

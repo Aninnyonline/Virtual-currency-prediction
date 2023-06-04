@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Aninny/Aninny.iml" filepath="$PROJECT_DIR$/Aninny/Aninny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Test_Programm/Aninny.iml" filepath="$PROJECT_DIR$/Java_Test_Programm/Aninny.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Virtual-currency-prediction.iml" filepath="$PROJECT_DIR$/.idea/Virtual-currency-prediction.iml" />
     </modules>
   </component>
